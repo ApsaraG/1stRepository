@@ -6,7 +6,7 @@ public class Addition_substraction_etc {
 		// TODO Auto-generated method stub
 		
 		
-		//These are the additon, substraction, division, multiplication and remainder
+		//These are the addition, substraction, division, multiplication and remainder
 		
 		int a;
 		int b;
