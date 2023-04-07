@@ -4,7 +4,9 @@ public class Addition_substraction_etc {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		//These are the additon, substraction, divide, multiplication and remainder
+		
+		
+		//These are the additon, substraction, division, multiplication and remainder
 		
 		int a;
 		int b;
